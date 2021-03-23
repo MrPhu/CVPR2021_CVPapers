@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-# CVPR_2021 Paper Collection
+# CVPR_2021 Computer Vision Paper Collection
 ### Classification / Backbone enhancement
 - [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)[ [_Code_]](https://github.com/clovaai/rexnet)**_CVPR2021**
 - [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://github.com/d-li14/involution)[ [_Code_]](https://arxiv.org/abs/2103.06255)**_CVPR2021**
@@ -156,9 +156,6 @@
 16. [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)**_CVPR2021**
 17. [Training Generative Adversarial Networks in One Stage](https://arxiv.org/abs/2103.00430)**_CVPR2021**
 18. [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/abs/2007.06600)[ [_Code_]](https://github.com/genforce/sefa)**_CVPR2021**
-
-# Paper Notes
-1. Personal Paper Note: [https://mrphu.github.io/Personal-Paper-Notes/](https://mrphu.github.io/Personal-Paper-Notes/)
 
 
 # Good Respitories
