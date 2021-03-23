@@ -57,7 +57,7 @@
 - [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)**_CVPR2021**
 
 ##### 3.1 Panoptic Segmentation
-- [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)[_Code_]](https://github.com/yanwei-li/PanopticFCN)**_CVPR2021**
+- [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)[ [_Code_]](https://github.com/yanwei-li/PanopticFCN)**_CVPR2021**
 - [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)**_CVPR2021**
 
 ##### 3.2 Instance segmentation
