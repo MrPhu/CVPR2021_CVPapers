@@ -1,6 +1,7 @@
 # Mr Phu Git-Pages
 1. Paper Note: [https://mrphu.github.io/Personal-Paper-Notes/](https://mrphu.github.io/Personal-Paper-Notes/)
 2. CVPR2021 Collection: [https://mrphu.github.io/CVPR2021_CVPapers/](https://mrphu.github.io/CVPR2021_CVPapers/)
+3. WACV 2021 Collection: [https://mrphu.github.io/WACV2021_CVPapers/](https://mrphu.github.io/WACV2021_CVPapers/)
 
 --------------------------------------------------------------------------------------------------------------
 
