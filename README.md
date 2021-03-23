@@ -4,7 +4,6 @@
 --------------------------------------------------------------------------------------------------------------
 
 # CVPR_2021 Paper Collection
-
 ### Classification / Backbone enhancement
 - [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)[ [_Code_]](https://github.com/clovaai/rexnet)**_CVPR2021**
 - [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://github.com/d-li14/involution)[ [_Code_]](https://arxiv.org/abs/2103.06255)**_CVPR2021**
